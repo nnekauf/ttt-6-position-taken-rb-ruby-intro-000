@@ -12,5 +12,6 @@ end
 board = [" "," "," "," "," "," "," "," "," "]
 
 def position_taken?(board,index)
+  if array[index_number]==" "
+    ""
 end
-array[index_number]==" "
