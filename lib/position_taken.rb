@@ -15,9 +15,9 @@ def position_taken?(board,index)
 end
 
   if array[index_number] == " "
-    "false"
+    puts "false"
     elsif array[index_number] == ""
-      "false"
+      puts "false"
     
   end
 
